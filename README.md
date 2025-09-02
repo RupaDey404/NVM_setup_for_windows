@@ -44,7 +44,7 @@ nvm -v
 nvm install latest
 nvm use (latest version)
 ```
-2. any older version is required, then put it that version instead of latest version.
+2. any older version is required, then put it that version instead of latest version e.g (nvm install 14).
 
 ### If you check all nvm list
 ```
